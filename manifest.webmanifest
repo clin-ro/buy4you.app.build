@@ -1,1 +1,1 @@
-{"name":"buy4you.app","short_name":"buy4you.app","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/"}
+{"name":"buy4you.app","short_name":"buy4you.app","start_url":"/buy4you.app.build/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/buy4you.app.build/"}
